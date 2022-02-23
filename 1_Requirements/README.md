@@ -36,6 +36,8 @@
 ### It is a handy system, you can enter your id and number of units consumed, it shows the amount of electricity consumed
 
 # SWOT Analysis
+![Screenshot (58)](https://user-images.githubusercontent.com/99010716/155364607-7e7b2a2e-d38e-4a2b-9d3a-93790566e452.png)
+
 
 
 # HIGH LEVEL REQUIREMENTS:
