@@ -6,3 +6,6 @@
 
 
 [![cppcheck-action](https://github.com/naveenreddiedodla/M1-Project-application/actions/workflows/cppcheck-action.yml/badge.svg)](https://github.com/naveenreddiedodla/M1-Project-application/actions/workflows/cppcheck-action.yml)
+
+
+[![static-Analysis](https://github.com/naveenreddiedodla/M1-Project-application/actions/workflows/static-Analysis.yml/badge.svg)](https://github.com/naveenreddiedodla/M1-Project-application/actions/workflows/static-Analysis.yml)
