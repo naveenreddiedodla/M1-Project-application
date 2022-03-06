@@ -9,3 +9,5 @@
 
 
 [![static-Analysis](https://github.com/naveenreddiedodla/M1-Project-application/actions/workflows/static-Analysis.yml/badge.svg)](https://github.com/naveenreddiedodla/M1-Project-application/actions/workflows/static-Analysis.yml)
+
+![calculator](https://user-images.githubusercontent.com/99010716/156876938-8c09de36-0288-4ae6-9229-6cb0273b6cd2.png)
